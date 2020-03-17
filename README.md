@@ -3,4 +3,4 @@
 * Выгрузка товаров и цен
 * Загрузка движений по кассе
 
-https://redmine.kb99.pro/projects/ks/issues
+Скачать обработки  https://redmine.kb99.pro/projects/ks/files
